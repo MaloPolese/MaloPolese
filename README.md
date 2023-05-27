@@ -22,11 +22,8 @@
 
 ### 🧙🏻‍♀️ About me:
 
-I'm an french apprentice student,
-
-- 👨🏻‍🎓 I study at Polytech Montpellier.
-- 👨🏻‍💻 I work at Conduktor.
-- 🎯 I am seeking an internship from July 2023 for 2 months minimum.
+- 👨🏻‍💻 I work at Conduktor
+- 🇫🇷 I'm french
 </div>
 
 ---
