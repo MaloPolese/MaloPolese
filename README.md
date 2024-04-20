@@ -22,7 +22,7 @@
 
 ### 🧙🏻‍♀️ About me:
 
-- 👨🏻‍💻 I work at Conduktor
+- 👨🏻‍💻 I work at Neusta
 - 🇫🇷 I'm french
 </div>
 
