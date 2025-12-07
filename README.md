@@ -22,7 +22,7 @@
 
 ### 🧙🏻‍♀️ About me:
 
-- 👨🏻‍💻 I for workd for an aircraft manufacturer
+- 👨🏻‍💻 I for work for an aircraft manufacturer
 - 🇫🇷 I'm french
 </div>
 
