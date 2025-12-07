@@ -22,7 +22,7 @@
 
 ### 🧙🏻‍♀️ About me:
 
-- 👨🏻‍💻 I work at Neusta
+- 👨🏻‍💻 I for workd for an aircraft manufacturer
 - 🇫🇷 I'm french
 </div>
 
